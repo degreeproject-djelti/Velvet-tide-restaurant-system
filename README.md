@@ -1,5 +1,7 @@
 # Velvet Tide Restaurant - Full Stack Web Application
 
+🌐 **Live Website:** [Visit Velvet Tide Restaurant](https://velvettide-restaurant1.onrender.com/)
+
 ## Table of Contents
 1. [Project Title](#1-project-title)
 2. [Proposed Tools](#2-proposed-tools)
