@@ -33,7 +33,7 @@ const Menu = () => {
       setIsLoading(true);
       setError("");
       try {
-        const response = await fetch(`${API_BASE_URL}/api/menu`);
+        const response = await fetch(`${API_BASE_URL}/api/menu/`);
         if (!response.ok) {
           throw new Error("Unable to load menu items.");
         }
